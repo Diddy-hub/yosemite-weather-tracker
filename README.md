@@ -1,2 +1,2 @@
 # weather-tracker
-This project tracks the weather near Yosemite's Wawona campsite. This project was made so people can use it to plan camping trips to Yosemite when the weather is good.
+This project tracks the weather near Yosemite's Wawona campsite. This project was made so people can use it to plan camping trips to Yosemite when the weather is good. You can also adjust the longitude and latitude and the start and end date inside the code to analyze and make decisions on where you want to go. Just search for the coordinates of your destination, put them in the script, and also put the month and start and end day into the script. The script will then fetch past weather data and forecast the next 7 days so you can make your desicion on when to visit
